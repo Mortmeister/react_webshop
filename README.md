@@ -19,8 +19,6 @@ You can view a live demo of the project here: https://app.netlify.com/projects/s
 - **React**
 - **TypeScript**
 - **Tailwind CSS**
-- **React Router**
-- **React Context API**
 
 ## Installation
 
