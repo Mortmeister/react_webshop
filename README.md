@@ -4,7 +4,7 @@ A simple e-commerce web application built with **React**, **TypeScript**, and **
 
 ## Deployment
 
-You can view a live demo of the project here: (https://app.netlify.com/projects/shophup-project/deploys)
+You can view a live demo of the project here: https://app.netlify.com/projects/shophup-project/deploys
 
 ## Feature
 
@@ -56,4 +56,5 @@ During this project, I used ChatGPT to support learning, debugging, and minor de
 - Explanation of props, children, and state management
 - Clarification of infinite loop issues with `useEffect`
 - Brainstorming layout for contact form with Tailwind
-- Generating a project name for Netlify deployment
+- Generating generic text
+- Generating a project name
