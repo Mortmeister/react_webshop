@@ -14,6 +14,12 @@ You can view a live demo of the project here: https://shophup-project.netlify.ap
 - **Responsive Layout**: Optimized for mobile and desktop screens.
 - **Contact Page**: Form with client-side validation using React and TypeScript.
 
+## Recent improvements
+- **Persistent cart** — Cart items are now remembered between page refreshes, so users no longer lose their selection when reloading the site.
+- **Cart layout on smaller screens** — The cart page was adjusted so items and controls are easier to use on mobile, without changing the overall design.
+- **Reliable page reloads** — Refreshing on pages other than the home page no longer breaks navigation after deployment.
+
+
 ## Technologies Used
 
 - **React**
